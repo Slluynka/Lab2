@@ -11,7 +11,6 @@ else
 { Console.WriteLine("Число = 0"); }
 
 //Завдання 2
-using System.Diagnostics.CodeAnalysis;
 
 int a1;
 Console.WriteLine("Введіть рік : ");
